@@ -12,7 +12,7 @@ Projeto AthOS, um Website para Desenhistas Digitais e Artistas Freelancer para b
 > Código fechado sem fins lucrativos
 
 
-| Softwares | Languages |                                            
+| Softwares | Extras |                                            
 |----------:|-----------|
 |  Sai  | Arquivos Extras|
 | Krita | Pinceis   |
